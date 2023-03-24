@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Data Analytics Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed to demonstrate experience in React.JS and Tailwind CSS
 
 ## Available Scripts
 
