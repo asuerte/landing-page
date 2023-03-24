@@ -2,6 +2,17 @@
 
 This project was developed to demonstrate experience in React.JS and Tailwind CSS
 
+## Project setup
+```
+### yarn
+yarn
+
+### npm
+npm install
+
+### pnpm
+pnpm install
+```
 ## Available Scripts
 
 In the project directory, you can run:
